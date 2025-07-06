@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uLs6SeklzkK6i0h78h6-Qw" Reference="sCi6cP_XGkCDm9IkXBVYww/EfgRJ_lEzE654pvAgcPHbQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="timeanddate.com/weather/india/visakhapatnam" CVScreenId="4abe5aaf-8bdd-4712-9f20-c0c900f265ee" CvTextArea="437, 593, 29, 13" CvType="AnyWordGroup" DesignTimeRectangle="432, 585, 194, 31" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='Humidity: ' /&gt;&lt;nav up='1' /&gt;&lt;webctrl tag='TD' aaname='*%' /&gt;" Guid="a59fbf93-be78-46b0-a411-f46d7e0d2ead" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Weather for Visakhapatnam, Andhra Pradesh, India' /&gt;" SearchSteps="Selector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6e860e890634e59732de14fc8268388d.png" xmlns="">0-yziEjwjyEKjLVGVbyoHYw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

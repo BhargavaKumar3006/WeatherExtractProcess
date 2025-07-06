@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="31WOty0c0UmyGuDsdPhSpw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1382, 744" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFdSURBVDhP1ZI/S8NAGIez6+jioIO4+iFEJz+BbWlxEBzcpRQ6OFnELtpR6W6pf5aIFTJ0CVRpVahVUNJaEWMT0CS2udjkZ3IXSyu2COLgAy+593d3D3lDOPySPxacjbAaQEegERXpUgzFx5yfuBSGWPmYxX1o6UXY2rOfdAkqDRHRkxnEhTnIRo2FhWFWLm35Fmp8Ckp0EqQi0MyjZ4RMeZ1KsldJFryds3LRszF6Wc+s0P4Trq5b7uvbtCHtFvLVXVi2SftuHKuFZn4bDmmy/rUJ+14BN7snYSJ9g/BxHZeNFt0URZE+v+P9ogYtuAl1fBkv06vgFnIPVDC2c43DO40eEgQBPM/T9VfIwSnU0SUq0CIp9g28EY6qOsy2Qw95JBJrHYmiKEiltmAYBhzTAuFLdASPvv8BIQShUBDJ5AYikTBk+cnf6aWvwEOSJAQC830vewwU/IR/LwA+ACjnwNGFYXTPAAAAAElFTkSuQmCC" Selector="&lt;html app='msedge.exe' title='Weather*' /&gt;" Title="Weather in India" Url="[PortalUrl+CityName]" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="35242a4f8f7048ab3d356d5fcfaa9f4d.jpg" xmlns="">0nC2N_GNntUma7oZspow-ww</imageRef>
+    </TargetApp>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="2">
+      <ObjectRepositoryVariableData Name="PortalUrl" />
+      <ObjectRepositoryVariableData Name="CityName" />
+    </scg:List>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

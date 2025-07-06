@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Weather in India",
+  "Type": "App",
+  "Id": "iQJP2x2-ZkmZRPavzRb23A",
+  "Reference": "sCi6cP_XGkCDm9IkXBVYww/iQJP2x2-ZkmZRPavzRb23A",
+  "Created": "2025-07-06T13:42:27.4012566Z",
+  "Updated": "2025-07-06T13:42:27.4012566Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

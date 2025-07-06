@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FSNAo7_b0U6fKb0ebq2xoQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="timeanddate.com/weather/india/visakhapatnam" CVScreenId="7204858e-544c-4558-8cde-cfa824d43c69" CvTextArea="43, 575, 59, 20" CvType="AnyWordGroup" DesignTimeRectangle="32, 413, 257, 32" DesignTimeScaleFactor="1" ElementType="Text" Guid="4f38dd36-7b46-45c4-96ed-b4ccbdebc4db" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Weather *' /&gt;" SearchSteps="CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="38195f5996fcfb9f046d50fcb1c1f954.png" xmlns="">0_6yRnGfUY0mEUxCrVon4mw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

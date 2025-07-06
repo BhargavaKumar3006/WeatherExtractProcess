@@ -1,0 +1,14 @@
+﻿{
+  "Name": "76%",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "EfgRJ_lEzE654pvAgcPHbQ",
+  "Reference": "sCi6cP_XGkCDm9IkXBVYww/EfgRJ_lEzE654pvAgcPHbQ",
+  "ParentRef": "sCi6cP_XGkCDm9IkXBVYww/KGvB1jj8C0-4yKGsJjQwig",
+  "Created": "2025-07-06T13:56:06.4915165Z",
+  "Updated": "2025-07-06T13:56:06.4915165Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

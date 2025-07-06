@@ -1,0 +1,14 @@
+﻿{
+  "Name": "30 °C",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "1hjOii0zP0-zRyxontV9GQ",
+  "Reference": "sCi6cP_XGkCDm9IkXBVYww/1hjOii0zP0-zRyxontV9GQ",
+  "ParentRef": "sCi6cP_XGkCDm9IkXBVYww/KGvB1jj8C0-4yKGsJjQwig",
+  "Created": "2025-07-06T13:50:02.6592525Z",
+  "Updated": "2025-07-06T13:50:02.6592525Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

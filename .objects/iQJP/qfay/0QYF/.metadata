@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Weather in India",
+  "Type": "Screen",
+  "Id": "0QYFy3wZcEu1SL6xPOhcYQ",
+  "Reference": "sCi6cP_XGkCDm9IkXBVYww/0QYFy3wZcEu1SL6xPOhcYQ",
+  "ParentRef": "sCi6cP_XGkCDm9IkXBVYww/qfaySSbDVky1EGQAi_oe0A",
+  "Created": "2025-07-06T13:42:27.9681027Z",
+  "Updated": "2025-07-06T13:42:27.9681027Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
